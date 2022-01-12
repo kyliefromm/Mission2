@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{E8998195-953E-4661-9F81-52816F1A970C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Mission-2/wwwroot/Index.html">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mission-2/wwwroot/js/gradecalc.js">
     <Files>
       <File FileName="Mission-2/wwwroot/Index.html" Line="26" Column="31" />
-      <File FileName="Mission-2/wwwroot/js/gradecalc.js" />
+      <File FileName="Mission-2/wwwroot/js/gradecalc.js" Line="1" Column="1" />
       <File FileName="Mission-2/appsettings.json" />
       <File FileName="Mission-2/Startup.cs" />
       <File FileName="Mission-2/Program.cs" />
       <File FileName="Mission-2/Properties/launchSettings.json" />
-      <File FileName="Mission-2/wwwroot/css/styles.css" Line="7" Column="22" />
+      <File FileName="Mission-2/wwwroot/css/styles.css" />
       <File FileName="Mission-2/wwwroot/lib/jquery/jquery-3.6.0.min.js" />
       <File FileName="Mission-2/wwwroot/lib/bootstrap/js/bootstrap.js" />
       <File FileName="Mission-2/wwwroot/lib/bootstrap/js/bootstrap.esm.js" />
@@ -20,11 +20,12 @@
             <Node name="Mission-2" expanded="True">
               <Node name="wwwroot" expanded="True">
                 <Node name="css" expanded="True" />
-                <Node name="js" expanded="True" />
+                <Node name="js" expanded="True">
+                  <Node name="gradecalc.js" selected="True" />
+                </Node>
                 <Node name="lib" expanded="True">
                   <Node name="bootstrap" expanded="True" />
                 </Node>
-                <Node name="Index.html" selected="True" />
               </Node>
             </Node>
           </Node>
