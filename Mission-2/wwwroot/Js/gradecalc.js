@@ -46,9 +46,9 @@
         grade = "D-";
     }
     else {
-        grade = "E";   
+        grade = "E";
+         }
 
-        console.log(fAverage, grade)
     alert("Your final percentage was: " + fAverage + " Your final grade is an: " + grade);
 
 })
