@@ -1,10 +1,10 @@
 ﻿body {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 label {
     font-size: 22px;
-    color: lightskyblue;
+    color: cadetblue;
     width: 150px;
     display: inline-block;
 }
@@ -13,6 +13,40 @@ textarea {
     font-size: 20px;
 }
 
-li {
-    list-style-type: none;
+img{
+    padding-left: 20px;
+    padding-top: 20px;
+    border: medium;
 }
+
+h1{
+    padding-left: 20px;
+}
+
+input {
+    padding-left: 20px;
+}
+
+p {
+    padding-left: 20px;
+    color: cadetblue;
+}
+
+h2 {
+    padding-left: 20px;
+}
+
+li {
+    padding-left: 20px;
+}
+
+
+button {
+    padding-left: 20px;
+}
+
+form {
+    padding-left: 20px;
+}
+
+

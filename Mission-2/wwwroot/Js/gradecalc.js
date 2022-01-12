@@ -49,6 +49,6 @@
         grade = "E";
          }
 
-    alert("Your final percentage was: " + fAverage + " Your final grade is an: " + grade);
+    alert("Your final percentage was: " + fAverage + "% Your final grade is an: " + grade);
 
 })
